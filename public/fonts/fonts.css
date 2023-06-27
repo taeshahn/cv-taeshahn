@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'GowunDodum';
+    src: url('./GowunDodum.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'GGBatang';
+    src: url('./GGBatang.woff');
+    font-weight: normal;
+    font-style: normal;
+}

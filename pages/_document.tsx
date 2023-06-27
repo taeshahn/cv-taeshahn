@@ -18,6 +18,7 @@ export default class MyDocument extends Document {
             />
 
             <link rel='manifest' href='/manifest.json' />
+            <link href="/fonts/fonts.css" rel="stylesheet" />
           </Head>
 
           <body>
