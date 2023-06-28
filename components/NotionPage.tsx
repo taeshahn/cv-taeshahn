@@ -261,7 +261,8 @@ export const NotionPage: React.FC<types.PageProps> = ({
           styles.notion,
           pageId === site.rootNotionPageId && 'index-page'
         )}
-        darkMode={isDarkMode}
+        // darkMode={isDarkMode}
+        darkMode={true}
         components={components}
         recordMap={recordMap}
         rootPageId={site.rootNotionPageId}
