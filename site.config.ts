@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Taeseung Hahn CV',
-  domain: 'cv2.taes.me',
+  domain: 'cv.taes.me',
   author: 'Taeseung Hahn',
 
   // open graph metadata (optional)
